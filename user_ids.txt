@@ -1,0 +1,6 @@
+alex:   0ff850b1-28db-4ec9-b59d-5df6fa042551
+  priya:  3b5c2909-a775-42d5-a164-e14a184aa497
+  marcus: e5d00898-8a68-4f2d-bcf5-32ade8cf1103
+
+  curl http://127.0.0.1:5000/stats/3b5c2909-a775-42d5-a164-e14a184aa497
+   curl http://127.0.0.1:5000/reading/history/3b5c2909-a775-42d5-a164-e14a184aa497
